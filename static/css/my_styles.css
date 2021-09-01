@@ -1,3 +1,8 @@
 .col-md-5 img {
     width: 100%;
 }
+
+.featurette {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
